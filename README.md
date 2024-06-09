@@ -1,6 +1,7 @@
 # About
 
 Product categorization project, using the Gemini embeddings API to assign subcategories to products based on existing subcategories, and performed through embeddings comparisons.<br>
+See notebook [here](https://github.com/FlorianLD/gemini_product_categorization/blob/main/notebook.ipynb).
 
 # Objective
 
